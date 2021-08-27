@@ -7,7 +7,7 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
 
 console.log("Notas disponíveis: 1, 5, 10, 50 e 100\n"+ "Valor mínimo: 10 reais\n"+ "Valor máximo: 600 reais");
 
-let retirada = +prompt("Quanto você gostaria de sacar?"));
+let retirada = +prompt("Quanto você gostaria de sacar?");
 let cem = parseInt(retirada / 100);
 let num = retirada - (cem * 100);
 let cinquenta = parseInt(num / 50);
