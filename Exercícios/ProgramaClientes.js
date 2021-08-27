@@ -1,4 +1,4 @@
-/* Faça um programa de cadastro de clientes que mostre um menu de opções e permita com que a pessoa escolha umas das opções, exibindo qual foi a opção escolhida.*/
+// Faça um programa de cadastro de clientes que mostre um menu de opções e permita com que a pessoa escolha umas das opções, exibindo qual foi a opção escolhida.
 
 console.log("Gostaria de receber novidades no email cadastrado:\n1 - Sim\n2 - Não");
 
