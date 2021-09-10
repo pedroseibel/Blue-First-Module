@@ -69,7 +69,7 @@ console.log(`
          \`-----------------------'
        `);
 
-console.log("Bem-vindo ao sistema de votação eletrônica, por favor, preencha os seguintes dados:);
+console.log("Bem-vindo ao sistema de votação eletrônica, por favor, preencha os seguintes dados:");
 
 // Ter uma função chamada votacao(autorizacao, voto)
 function votacao(autorizacao, voto) {
